@@ -16,6 +16,7 @@ Kamu bisa menggunaakan link di bawah untuk refrensi.
 
 + - [GIT LIST](https://education.github.com/git-cheat-sheet-education.pdf)
 
+<img src="c.png" width="500"/>
 
 - __GitHub__ merupakan layanan cloud yang berguna untuk menyimpan dan mengelola sebuah project yang dinamakan repository (repo git). Cara kerja pada GitHub harus terkoneksi pada internet sehingga tidak perlu meng-install sebuah software ke dalam perangkat keras. Hal ini memberikan keringanan penyimpanan komputer yang kita gunakan karena file project tersimpan oleh cloud GitHub.
 
