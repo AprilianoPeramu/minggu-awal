@@ -56,6 +56,15 @@ Kamu bisa menggunaakan link di bawah untuk refrensi.
     </body>
 </html>
 ```
+```
+| Syntax | Description |
+| ----------- | ----------- |
+| Head | Kepala |
+| Body | Badan |
+| Nav  | Navigation |
+| h1 | Heading 1|
+| p | Paragraf |
+```
 Elemen HTML didefinisikan oleh tag awal, beberapa konten, dan tag akhir.
 
 + - [HTML TAGS](https://www.w3schools.com/tags/default.asp)
