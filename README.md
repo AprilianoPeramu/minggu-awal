@@ -103,7 +103,9 @@ CSS menjelaskan bagaimana elemen HTML harus ditampilkan.
 
  __CSS__ memiliki struktur seperti gambar di bawah ini.
 
+<p align="center">
 <img src="z.gif" width="500"/>
+</p>
 
 + Pemilih menunjuk ke elemen HTML yang ingin Anda gaya.
 Blok deklarasi berisi satu atau lebih deklarasi yang dipisahkan oleh titik koma.
